@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97743252111",
+    "firebase_url": "https://fatecipipdmchatcomfirebase.firebaseio.com",
+    "project_id": "fatecipipdmchatcomfirebase",
+    "storage_bucket": "fatecipipdmchatcomfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97743252111:android:e88d6b7b7a922b4b7d9efa",
+        "android_client_info": {
+          "package_name": "com.example.fatec_ipi_pdm_chat_com_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97743252111-u4ie88m163vhu8acebdujnlrf7kha2tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fatec_ipi_pdm_chat_com_firebase",
+            "certificate_hash": "1e041cf8127d9e4f930a90ff89de885b669b63e5"
+          }
+        },
+        {
+          "client_id": "97743252111-roifq0dsuldspjhjrjcf5s7om652lh99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX1C02pCDHOOz6q75c1_lKu5qiJWPj5YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97743252111-roifq0dsuldspjhjrjcf5s7om652lh99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
